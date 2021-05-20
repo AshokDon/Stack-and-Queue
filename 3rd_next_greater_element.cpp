@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/next-greater-element-i/
+
 #include <iostream>
 using namespace std;
 
